@@ -10,6 +10,10 @@ property: value;
 #intro {background:url('https://images.pexels.com/photos/207700/pexels-photo-207700.jpeg?w=940&h=650&auto=compress&cs=tinysrgb');
 background-size:cover;
 }
+#intro h1 {
+  color: white
+}
+
 #about {background: green;}
 #portfolio {background: red;}
 #contact{background: yellow;}
