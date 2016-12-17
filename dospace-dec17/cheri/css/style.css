@@ -1,11 +1,13 @@
 /*selector {
 property: value;
 }*/
-#about, #portfolio, #contact {
-height: 500px;
-padding-top: 150px;
-text-align: center;
+
+#intro, #about, #portfolio, #contact {
+  height: 31.25em;
+  padding-top: 9.5em;
+  text-align: center;
 }
-#about {background: green;}
-#portfolio {background: blue;}
-#contact{background: yellow;}
+
+#about{background:red;}
+#portfolio{background:blue;}
+#contact{background:yellow;}
