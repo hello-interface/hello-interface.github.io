@@ -3,6 +3,7 @@ property: value;
 }*/
 #intro {
   background:url('https://static.pexels.com/photos/225869/pexels-photo-225869.jpeg');
+  background=size:cover;
 }
 #about, #portfolio, #contact {
   height: 31.25em;
