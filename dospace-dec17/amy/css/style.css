@@ -10,7 +10,7 @@ text-align: center;
 
 #intro{
   background:url('https://static.pexels.com/photos/26736/pexels-photo.jpg');
-  background-size:cover;
+  background-size:cover; 
 }
 
 #intro h1 {
