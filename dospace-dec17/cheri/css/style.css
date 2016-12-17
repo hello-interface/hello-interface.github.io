@@ -1,3 +1,11 @@
 /*selector {
 property: value;
 }*/
+#about, #portfolio, #contact {
+height: 500px;
+padding-top: 150px;
+text-align: center;
+}
+#about {background: green;}
+#portfolio {background: pink;}
+#contact{background: yellow;}
