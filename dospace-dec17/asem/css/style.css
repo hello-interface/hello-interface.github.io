@@ -2,7 +2,8 @@
 property: value;
 }*/
 #intro {
-  background:url(https://static.pexels.com/photos/225869/pexels-photo-225869.jpeg); }
+  background:url(https://static.pexels.com/photos/225869/pexels-photo-225869.jpeg);
+}
 #about, #portfolio, #contact {
   height: 31.25em;
   padding-top: 9.5em;
