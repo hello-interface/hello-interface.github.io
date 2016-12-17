@@ -12,6 +12,10 @@ property: value;
   text-align: center;
 }
 
+#portfolio {
+ height: 45em; 
+}
+
 #intro{
   background:url('https://static.pexels.com/photos/26736/pexels-photo.jpg');
   background-size:cover;
@@ -21,6 +25,4 @@ property: value;
   color:white;
 }
 
-#about{background:red;}
-#portfolio{background:green;}
-#contact{background:yellow;}
+
