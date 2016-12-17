@@ -26,3 +26,8 @@ background-size:cover;
 #portfolio{background:blue;}
 #contact{background:yellow;}
 
+.img-circle {
+ height: 10em;
+width:10em;
+
+}
