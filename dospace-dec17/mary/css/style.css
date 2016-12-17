@@ -7,6 +7,9 @@ property: value;
   padding-top: 150px;
   text-align: center;
 }
+#intro {background:url(https://images.pexels.com/photos/207700/pexels-photo-207700.jpeg?w=940&h=650&auto=compress&cs=tinysrgb);
+background-size:cover;
+}
 #about {background: green;}
 #portfolio {background: red;}
 #contact{background: yellow;}
