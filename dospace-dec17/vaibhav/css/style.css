@@ -19,6 +19,9 @@ property: value;
 #portfolio {
   height: 60em;
 }
+#carousel-example-generic {
+  height: 45em;
+}
 #about{background:red;}
 #portfolio{background:green;}
 #contact{background:yellow;}
