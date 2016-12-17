@@ -25,3 +25,8 @@ property: value;
   color:white;
 }
 
+.img-circle {
+  height: 10em;
+  width:10em;
+}
+
