@@ -1,16 +1,17 @@
 /*selector {
 property: value;
 }*/
-#intro {
-  background:url('https://static.pexels.com/photos/225869/pexels-photo-225869.jpeg');
-  background=size:cover;
-}
+.navbar-inverse{
+  background:purple;
 #about, #portfolio, #contact {
   height: 31.25em;
   padding-top: 9.5em;
   text-align: center;
 }
-
+#intro {
+  background:url('https://static.pexels.com/photos/225869/pexels-photo-225869.jpeg');
+  background=size:cover;
+}
 #intro h1 {
   color;white;
 }
