@@ -1,7 +1,9 @@
 /*selector {
 property: value;
 }*/
-
+.navbar-inverse { 
+  background:purple;
+}
 #intro, #about, #portfolio, #contact {
   height: 500px;
   padding-top: 150px;
