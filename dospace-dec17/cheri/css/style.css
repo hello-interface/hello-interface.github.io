@@ -1,7 +1,9 @@
 /*selector {
 property: value;
 }*/
-
+.navbar-inverse{
+  background:teal;
+}
 #intro, #about, #portfolio, #contact {
   height: 31.25em;
   padding-top: 9.5em;
