@@ -1,6 +1,9 @@
 /*selector {
 property: value;
 }*/
+.navbar-inverse {
+  background:purple;
+}
 
 #intro, #about, #portfolio, #contact {
   height: 31.25em;
@@ -8,6 +11,17 @@ property: value;
   text-align: center;
 }
 
+#intro{
+  background:url('https://static.pexels.com/photos/26736/pexels-photo.jpg');
+  background-size:cover;
+}
+
+#intro h1 {
+  color:white;
+}
+
 #about{background:red;}
 #portfolio{background:green;}
 #contact{background:yellow;}
+
+
