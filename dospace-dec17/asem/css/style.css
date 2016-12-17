@@ -3,18 +3,24 @@ property: value;
 }*/
 .navbar-inverse{
   background:purple;
-#about, #portfolio, #contact {
+}
+
+#intro, #about, #portfolio, #contact {
   height: 31.25em;
   padding-top: 9.5em;
   text-align: center;
 }
-#intro {
-  background:url('https://static.pexels.com/photos/225869/pexels-photo-225869.jpeg');
-  background=size:cover;
+
+#portfolio {
+ height: 45em; 
 }
+
+#intro{
+  background:url('https://static.pexels.com/photos/26736/pexels-photo.jpg');
+  background-size:cover;
+}
+
 #intro h1 {
-  color;white;
+  color:white;
 }
-#about{background:red;}
-#portfolio{background:green;}
-#contact {backbround:yellow;}
+
