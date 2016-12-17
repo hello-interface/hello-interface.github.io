@@ -1,7 +1,8 @@
 /*selector {
 property: value;
 }*/
-#about, #portfolio, #contact {
+
+#intro, #about, #portfolio, #contact {
   height: 500px;
   padding-top: 150px;
   text-align: center;
