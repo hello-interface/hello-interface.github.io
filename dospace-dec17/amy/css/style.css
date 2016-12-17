@@ -7,6 +7,10 @@ height: 31.25em;
 padding-top: 9.5em;
 text-align: center;
 }
+#intro{
+  background:url('https://static.pexels.com/photos/139385/pexels-photo-139385.jpeg');
+  background-size:cover;
+}
 #about {background: blue;}
 #portfolio {background: green;}
 #contact{background: yellow;} 
