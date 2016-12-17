@@ -13,6 +13,10 @@ text-align: center;
   background-size:cover;
 }
 
+#intro h1 {
+  color:white;
+}
+
 #about {background: blue;}
 #portfolio {background: green;}
 #contact{background: yellow;} 
