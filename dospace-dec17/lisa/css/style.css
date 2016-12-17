@@ -3,13 +3,17 @@ property: value;
 }*/
 
 .navbar-inverse{
-  background:white;
+  background:purple;
 }
 
 #intro, #about, #portfolio, #contact {
   height: 31.25em;
   padding-top: 9.5em;
   text-align: center;
+}
+
+#portfolio {
+ height: 45em; 
 }
 
 #intro{
@@ -20,7 +24,3 @@ property: value;
 #intro h1 {
   color:white;
 }
-
-#about{background:red;}
-#portfolio{background:green;}
-#contact{background:yellow;}
