@@ -2,7 +2,7 @@
 property: value;
 }*/
 #intro {
-  background:url(https://static.pexels.com/photos/225869/pexels-photo-225869.jpeg);
+  background:url('https://static.pexels.com/photos/225869/pexels-photo-225869.jpeg');
 }
 #about, #portfolio, #contact {
   height: 31.25em;
@@ -10,6 +10,9 @@ property: value;
   text-align: center;
 }
 
+#intro h1 {
+  color;white;
+}
 #about{background:red;}
 #portfolio{background:green;}
 #contact {backbround:yellow;}
