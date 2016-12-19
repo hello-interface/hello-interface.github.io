@@ -2,7 +2,7 @@
 property: value;
 }*/
 #intro, #about, #portfolio, #contact {
-  height: 31.25em;
+  height: 20.25em;
   padding-top: 9.5em;
   text-align: center;
 }
