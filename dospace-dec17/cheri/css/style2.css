@@ -3,7 +3,7 @@ property: value;
 }*/
 #intro, #about, #portfolio, #contact {
   height: 20.25em;
-  padding-top: 9.5em;
+  padding-top: 5.5em;
   text-align: center;
 }
 .img-circle {
