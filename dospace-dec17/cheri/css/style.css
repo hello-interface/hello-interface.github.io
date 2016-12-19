@@ -2,7 +2,7 @@
 property: value;
 }*/
 .navbar-inverse{
-  background:teal;
+  background:#26c6da;
 }
 #intro, #about, #portfolio, #contact {
   height: 31.25em;
@@ -22,9 +22,9 @@ background-size:cover;
 #intro h1 {
   color:white;
 }
-#about{background:cyan lighten-5;}
-#portfolio{background:cyan lighten-4;}
-#contact{background:cyan lighten-3;}
+#about{background:#b2ebf2;}
+#portfolio{background:#80deea;}
+#contact{background:#4dd0e1;}
 
 .img-circle {
  height: 10em;
