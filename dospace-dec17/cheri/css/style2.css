@@ -1,7 +1,11 @@
 /*selector {
 property: value;
 }*/
-
+#intro, #about, #portfolio, #contact {
+  height: 31.25em;
+  padding-top: 9.5em;
+  text-align: center;
+}
 .img-circle {
  height: 10em;
 width:10em;
